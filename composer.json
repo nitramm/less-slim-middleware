@@ -1,10 +1,15 @@
 {
   "name": "nitramm/less-slim-middleware",
-  "homepage": "https://github.com/Nitramm/less-slim-middleware",
+  "homepage": "https://github.com/nitramm/less-slim-middleware",
   "license": "MIT",
   "description": "Slim Framework middleware to compile LESS CSS files on-the-fly. Supports minification and caching.",
   "keywords": ["less", "middleware", "slimphp"],
   "authors": [
+    {
+      "name": "Gerard Sychay",
+      "email": "hellogerard@gmail.com",
+      "homepage": "https://github.com/hellogerard"
+    },
     {
       "name": "Nitramm",
       "email": "nitramm@mlb.la",
